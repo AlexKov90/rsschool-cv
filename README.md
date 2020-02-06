@@ -3,4 +3,4 @@
 
 
 
-[CV Link](https://github.com/AlexKov90/rsschool-cv/cv)
+[CV Link](https://AlexKov90.github.io/rsschool-cv/cv)
