@@ -10,7 +10,7 @@ Phone number: +375-29-383-15-75
 
 E-mail: kavaleuski.alex@gmail.com
 
-[github account:](https://github.com/AlexKov90)
+[Github Account](https://github.com/AlexKov90)
 
 
 **Education:** Belarussian National Technologies University 2010-2016
