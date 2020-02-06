@@ -13,7 +13,7 @@ E-mail: kavaleuski.alex@gmail.com
 [github account:](https://github.com/AlexKov90)
 
 
-**Education:** BNTU 2010-2016
+**Education:** Belarussian National Technologies University 2010-2016
 
 Learning English:  
 School of English language: 
