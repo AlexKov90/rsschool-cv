@@ -1,0 +1,144 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+p,
+div,
+ul,
+h1,
+h2,
+h3,
+h4 {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Trebuchet, sans-serif;
+    font-size: 18px;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+.contacts,
+.header-img,
+.overview-section,
+.description-section {
+    width: 49%;
+    margin: 0 auto;
+}
+
+.avatar {
+    width: 273px;
+    height: 280px;
+    border-radius: 50%;
+    margin-top: 70px;
+}
+
+.text {
+    display: block;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+}
+
+.header-md {
+    text-transform: uppercase;
+    margin-top: 26;
+    margin-bottom: 6px;
+    letter-spacing: 6px;
+    width: 50%;
+}
+
+.header-lg {
+    font-size: 29px;
+    padding-top: 62px;
+}
+
+.header-sm {
+    margin-top: 14px;
+    margin-bottom: 12px;
+}
+
+.name {
+    height: 110px;
+    font-weight: normal;
+}
+
+.skills li {
+    line-height: 23px;
+}
+
+.job-overview {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+}
+
+.job-timeline {
+    font-style: italic;
+}
+
+.header-highlighter {
+    height: 0;
+    width: 100%;
+    border-bottom: 2px solid orange;
+    width: 200px;
+    margin-top: 4px;
+}
+
+.job-description-list {
+    display: grid;
+    grid-row-gap: 4px;
+}
+
+.experience-header {
+    margin-bottom: 6px;
+}
+
+@media(max-width: 767px) {
+    #wrapper {
+        width: 767px;
+        display: block;
+        margin: 50px auto;
+        padding: 20px;
+        font-family: Trebuchet, sans-serif;
+        font-size: 14px;
+    }
+    .main,
+    .header {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .contacts,
+    .header-img,
+    .overview-section,
+    .description-section {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .avatar {
+        margin: 0;
+        padding: 0;
+    }
+}
